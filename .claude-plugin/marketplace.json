@@ -1,0 +1,12 @@
+{
+  "name": "claude-turn-times",
+  "owner": { "name": "IlyaSachok" },
+  "description": "A Claude Code mod that shows when every answer started and ended.",
+  "plugins": [
+    {
+      "name": "turn-times",
+      "source": "./",
+      "description": "Shows the start and end time of every answer as a line under its last block, and the latest one in the status line."
+    }
+  ]
+}

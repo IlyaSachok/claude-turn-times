@@ -1,0 +1,5 @@
+{
+  "name": "turn-times",
+  "version": "0.2.1",
+  "description": "Adds the start and end time of an answer as a line under its last block, and the latest one in the status line."
+}
