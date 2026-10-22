@@ -28,7 +28,7 @@ git clone https://github.com/IlyaSachok/claude-turn-times.git ~/.claude/skills/t
 git clone https://github.com/IlyaSachok/claude-turn-times.git "$env:USERPROFILE\.claude\skills\turn-times"
 ```
 
-Start a new session afterwards. If the repository is private, the machine needs git access to it (for example `gh auth login`).
+Start a new session afterwards.
 
 ## Notes
 
